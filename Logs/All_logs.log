@@ -1,0 +1,126 @@
+2023-09-19 09:24:37,905 : INFO : Test_HomePage : test_home_page : 8 : --------------- Home Page ---------------
+2023-09-19 09:24:37,905 : INFO : Test_HomePage : test_home_page : 9 : Home Page Test is Started
+2023-09-19 09:24:37,905 : INFO : Test_HomePage : test_home_page : 11 : Invoking Browser And Opening URL
+2023-09-19 09:24:37,952 : INFO : Test_HomePage : test_home_page : 13 : Title of Home Page :: Your store. Login
+2023-09-19 09:24:37,952 : INFO : Test_HomePage : test_home_page : 15 : Home Page Title is passed
+2023-09-19 09:24:37,999 : INFO : Test_HomePage : test_home_page : 22 : Home Page Test is Completed
+
+2023-09-19 09:25:26,172 : INFO : Test_LoginPage : test_login : 11 : --------------- Login Page ---------------
+2023-09-19 09:25:26,172 : INFO : Test_LoginPage : test_login : 12 : Login Test is Started
+2023-09-19 09:25:26,172 : INFO : Test_LoginPage : test_login : 14 : Invoking Browser And Opening URL
+2023-09-19 09:25:26,668 : INFO : Test_LoginPage : test_login : 19 : Entring Email as :: admin@yourstore.com
+2023-09-19 09:25:26,832 : INFO : Test_LoginPage : test_login : 21 : Entring Email as :: admin
+2023-09-19 09:25:32,000 : INFO : Test_LoginPage : test_login : 24 : Title of Login Page :: Dashboard / nopCommerce administration
+2023-09-19 09:25:32,001 : INFO : Test_LoginPage : test_login : 26 : Login Page Title is passed
+2023-09-19 09:25:33,917 : INFO : Test_LoginPage : test_login : 35 : Login Test is Completed
+
+2023-09-19 09:25:41,471 : INFO : Test_LoginPage : test_login_by_DDT_frame : 38 : --------------- Login Page ---------------
+2023-09-19 09:25:41,471 : INFO : Test_LoginPage : test_login_by_DDT_frame : 39 : Test Login By DDT Frame is Started
+2023-09-19 09:25:41,471 : INFO : Test_LoginPage : test_login_by_DDT_frame : 41 : Invoking Browser And Opening URL
+2023-09-19 09:25:42,407 : INFO : Test_LoginPage : test_login_by_DDT_frame : 47 : Entring Email as :: admin@yourstore.com
+2023-09-19 09:25:42,672 : INFO : Test_LoginPage : test_login_by_DDT_frame : 49 : Entring Email as :: admin
+2023-09-19 09:25:47,389 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Title of Login Page :: Dashboard / nopCommerce administration
+2023-09-19 09:25:47,446 : INFO : Test_LoginPage : test_login_by_DDT_frame : 58 : Login Success Through Valid Data
+2023-09-19 09:25:50,771 : INFO : Test_LoginPage : test_login_by_DDT_frame : 47 : Entring Email as :: admin@yourstore.com
+2023-09-19 09:25:51,022 : INFO : Test_LoginPage : test_login_by_DDT_frame : 49 : Entring Email as :: Savali 1234
+2023-09-19 09:25:51,572 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Title of Login Page :: Your store. Login
+2023-09-19 09:25:51,684 : INFO : Test_LoginPage : test_login_by_DDT_frame : 72 : Login Failed Through Invalid Data
+2023-09-19 09:25:52,292 : INFO : Test_LoginPage : test_login_by_DDT_frame : 47 : Entring Email as :: 1234@ Sukhachi
+2023-09-19 09:25:52,538 : INFO : Test_LoginPage : test_login_by_DDT_frame : 49 : Entring Email as :: admin
+2023-09-19 09:25:52,642 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Title of Login Page :: Your store. Login
+2023-09-19 09:25:52,735 : INFO : Test_LoginPage : test_login_by_DDT_frame : 72 : Login Failed Through Invalid Data
+2023-09-19 09:25:53,423 : INFO : Test_LoginPage : test_login_by_DDT_frame : 47 : Entring Email as :: 1234@ Sukhachi
+2023-09-19 09:25:53,688 : INFO : Test_LoginPage : test_login_by_DDT_frame : 49 : Entring Email as :: 1234 @3246hj
+2023-09-19 09:25:53,770 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Title of Login Page :: Your store. Login
+2023-09-19 09:25:53,868 : INFO : Test_LoginPage : test_login_by_DDT_frame : 72 : Login Failed Through Invalid Data
+2023-09-19 09:25:54,204 : INFO : Test_LoginPage : test_login_by_DDT_frame : 83 : Test Login By DDT Frame is Completed
+
+2023-09-19 09:28:49,309 : INFO : Test_AddCustomer : test_add_customer : 15 : --------------- Add Customer ---------------
+2023-09-19 09:28:57,494 : INFO : Test_AddCustomer : test_add_customer : 24 : Login Successful
+2023-09-19 09:28:57,556 : INFO : Test_AddCustomer : test_add_customer : 26 : Add Customer Test is Started
+2023-09-19 09:29:04,337 : INFO : Test_AddCustomer : test_add_customer : 33 : Providing Customer info.
+2023-09-19 09:29:08,254 : INFO : Test_AddCustomer : test_add_customer : 50 : Saving Customer info.
+2023-09-19 09:29:08,595 : INFO : Test_AddCustomer : test_add_customer : 54 : Customer Added Successfully.
+2023-09-19 09:29:10,435 : INFO : Test_AddCustomer : test_add_customer : 62 : Logout Successful
+2023-09-19 09:29:11,087 : INFO : Test_AddCustomer : test_add_customer : 64 : Login Test is Completed
+
+2023-09-20 09:45:13,530 : INFO : Test_SearchCustomer : test_search_customer_by_email : 17 : --------------- Search Customer ---------------
+2023-09-20 09:45:29,958 : INFO : Test_SearchCustomer : test_search_customer_by_email : 27 : Login Successful
+2023-09-20 09:45:29,974 : INFO : Test_SearchCustomer : test_search_customer_by_email : 29 : Test Search Customer By Email is Started
+2023-09-20 09:45:33,143 : INFO : Test_SearchCustomer : test_search_customer_by_email : 40 : Searching Customer By Email :: james_pan@nopCommerce.com
+2023-09-20 09:45:40,293 : INFO : Test_SearchCustomer : test_search_customer_by_email : 46 : Search Email Found in Table
+2023-09-20 09:45:43,101 : INFO : Test_SearchCustomer : test_search_customer_by_email : 54 : Logout Successful
+2023-09-20 09:45:43,417 : INFO : Test_SearchCustomer : test_search_customer_by_email : 56 : Search Customer By Email Test is Completed
+
+2023-09-20 09:45:55,486 : INFO : Test_SearchCustomer : test_search_customer_by_name : 60 : --------------- Search Customer ---------------
+2023-09-20 09:46:07,297 : INFO : Test_SearchCustomer : test_search_customer_by_name : 70 : Login Successful
+2023-09-20 09:46:07,300 : INFO : Test_SearchCustomer : test_search_customer_by_name : 72 : Test Search Customer By Name is Started
+2023-09-20 09:46:12,787 : INFO : Test_SearchCustomer : test_search_customer_by_name : 82 : Searching Customer By Name :: James Pan
+2023-09-20 09:46:19,871 : INFO : Test_SearchCustomer : test_search_customer_by_name : 88 : Search Name Found in Table
+2023-09-20 09:46:22,128 : INFO : Test_SearchCustomer : test_search_customer_by_name : 96 : Logout Successful
+2023-09-20 09:46:22,425 : INFO : Test_SearchCustomer : test_search_customer_by_name : 98 : Search Customer By Name Test is Completed
+
+2023-09-20 10:31:43,205 : INFO : Test_AddCustomer : test_add_customer : 19 : --------------- Add Customer ---------------
+2023-09-20 10:31:51,480 : INFO : Test_AddCustomer : test_add_customer : 28 : Login Successful
+2023-09-20 10:31:51,490 : INFO : Test_AddCustomer : test_add_customer : 30 : Add Customer Test is Started
+2023-09-20 10:31:55,877 : INFO : Test_AddCustomer : test_add_customer : 37 : Providing Customer info.
+2023-09-20 10:32:00,015 : INFO : Test_AddCustomer : test_add_customer : 54 : Saving Customer info.
+2023-09-20 10:32:00,553 : INFO : Test_AddCustomer : test_add_customer : 59 : Customer Added Successfully.
+2023-09-20 10:32:02,346 : INFO : Test_AddCustomer : test_add_customer : 67 : Logout Successful
+2023-09-20 10:32:02,589 : INFO : Test_AddCustomer : test_add_customer : 69 : Login Test is Completed
+2023-09-20 10:32:19,567 : INFO : Test_HomePage : test_home_page : 11 : --------------- Home Page ---------------
+2023-09-20 10:32:19,567 : INFO : Test_HomePage : test_home_page : 12 : Home Page Test is Started
+2023-09-20 10:32:19,567 : INFO : Test_HomePage : test_home_page : 14 : Invoking Browser And Opening URL
+2023-09-20 10:32:19,589 : INFO : Test_HomePage : test_home_page : 17 : Title of Home Page :: Your store. Login
+2023-09-20 10:32:19,590 : INFO : Test_HomePage : test_home_page : 19 : Home Page Title is passed
+2023-09-20 10:32:20,187 : INFO : Test_HomePage : test_home_page : 27 : Home Page Test is Completed
+2023-09-20 10:32:27,446 : INFO : Test_LoginPage : test_login : 14 : --------------- Login Page ---------------
+2023-09-20 10:32:27,447 : INFO : Test_LoginPage : test_login : 15 : Login Test is Started
+2023-09-20 10:32:27,447 : INFO : Test_LoginPage : test_login : 17 : Invoking Browser And Opening URL
+2023-09-20 10:32:27,701 : INFO : Test_LoginPage : test_login : 22 : Entring Email as :: admin@yourstore.com
+2023-09-20 10:32:27,861 : INFO : Test_LoginPage : test_login : 24 : Entring Email as :: admin
+2023-09-20 10:32:33,819 : INFO : Test_LoginPage : test_login : 28 : Title of Login Page :: Dashboard / nopCommerce administration
+2023-09-20 10:32:33,820 : INFO : Test_LoginPage : test_login : 30 : Login Page Title is passed
+2023-09-20 10:32:37,879 : INFO : Test_LoginPage : test_login : 40 : Login Test is Completed
+2023-09-20 10:32:49,254 : INFO : Test_LoginPage : test_login_by_DDT_frame : 44 : --------------- Login Page ---------------
+2023-09-20 10:32:49,254 : INFO : Test_LoginPage : test_login_by_DDT_frame : 45 : Test Login By DDT Frame is Started
+2023-09-20 10:32:49,254 : INFO : Test_LoginPage : test_login_by_DDT_frame : 47 : Invoking Browser And Opening URL
+2023-09-20 10:32:49,614 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Entring Email as :: admin@yourstore.com
+2023-09-20 10:32:49,879 : INFO : Test_LoginPage : test_login_by_DDT_frame : 55 : Entring Email as :: admin
+2023-09-20 10:32:58,220 : INFO : Test_LoginPage : test_login_by_DDT_frame : 59 : Title of Login Page :: Dashboard / nopCommerce administration
+2023-09-20 10:32:58,277 : INFO : Test_LoginPage : test_login_by_DDT_frame : 64 : Login Success Through Valid Data
+2023-09-20 10:33:01,803 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Entring Email as :: admin@yourstore.com
+2023-09-20 10:33:02,072 : INFO : Test_LoginPage : test_login_by_DDT_frame : 55 : Entring Email as :: Savali 1234
+2023-09-20 10:33:02,679 : INFO : Test_LoginPage : test_login_by_DDT_frame : 59 : Title of Login Page :: Your store. Login
+2023-09-20 10:33:02,794 : ERROR : Test_LoginPage : test_login_by_DDT_frame : 78 : Login Failed Through Invalid Data
+2023-09-20 10:33:03,469 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Entring Email as :: 1234@ Sukhachi
+2023-09-20 10:33:03,748 : INFO : Test_LoginPage : test_login_by_DDT_frame : 55 : Entring Email as :: admin
+2023-09-20 10:33:03,836 : INFO : Test_LoginPage : test_login_by_DDT_frame : 59 : Title of Login Page :: Your store. Login
+2023-09-20 10:33:03,940 : ERROR : Test_LoginPage : test_login_by_DDT_frame : 78 : Login Failed Through Invalid Data
+2023-09-20 10:33:04,605 : INFO : Test_LoginPage : test_login_by_DDT_frame : 53 : Entring Email as :: 1234@ Sukhachi
+2023-09-20 10:33:04,880 : INFO : Test_LoginPage : test_login_by_DDT_frame : 55 : Entring Email as :: 1234 @3246hj
+2023-09-20 10:33:04,979 : INFO : Test_LoginPage : test_login_by_DDT_frame : 59 : Title of Login Page :: Your store. Login
+2023-09-20 10:33:05,088 : ERROR : Test_LoginPage : test_login_by_DDT_frame : 78 : Login Failed Through Invalid Data
+2023-09-20 10:33:05,764 : INFO : Test_LoginPage : test_login_by_DDT_frame : 89 : Test Login By DDT Frame is Completed
+2023-09-20 10:33:14,799 : INFO : Test_SearchCustomer : test_search_customer_by_email : 17 : --------------- Search Customer ---------------
+2023-09-20 10:33:21,182 : INFO : Test_SearchCustomer : test_search_customer_by_email : 27 : Login Successful
+2023-09-20 10:33:21,210 : INFO : Test_SearchCustomer : test_search_customer_by_email : 29 : Test Search Customer By Email is Started
+2023-09-20 10:33:24,693 : INFO : Test_SearchCustomer : test_search_customer_by_email : 39 : Searching Customer By Email :: james_pan@nopCommerce.com
+2023-09-20 10:33:31,797 : INFO : Test_SearchCustomer : test_search_customer_by_email : 46 : Search Email Found in Table
+2023-09-20 10:33:34,302 : INFO : Test_SearchCustomer : test_search_customer_by_email : 55 : Logout Successful
+2023-09-20 10:33:34,572 : INFO : Test_SearchCustomer : test_search_customer_by_email : 57 : Search Customer By Email Test is Completed
+2023-09-20 10:33:44,363 : INFO : Test_SearchCustomer : test_search_customer_by_name : 61 : --------------- Search Customer ---------------
+2023-09-20 10:33:51,570 : INFO : Test_SearchCustomer : test_search_customer_by_name : 71 : Login Successful
+2023-09-20 10:33:51,573 : INFO : Test_SearchCustomer : test_search_customer_by_name : 73 : Test Search Customer By Name is Started
+2023-09-20 10:33:55,365 : INFO : Test_SearchCustomer : test_search_customer_by_name : 83 : Searching Customer By Name :: James Pan
+2023-09-20 10:34:02,423 : INFO : Test_SearchCustomer : test_search_customer_by_name : 90 : Search Name Found in Table
+2023-09-20 10:34:05,986 : INFO : Test_SearchCustomer : test_search_customer_by_name : 99 : Logout Successful
+2023-09-20 10:34:08,278 : INFO : Test_SearchCustomer : test_search_customer_by_name : 101 : Search Customer By Name Test is Completed
+2023-09-20 10:54:41,297 : INFO : Test_AddCustomer : test_add_customer : 19 : --------------- Add Customer ---------------
+2023-09-20 10:54:54,578 : INFO : Test_AddCustomer : test_add_customer : 28 : Login Successful
+2023-09-20 10:54:54,589 : INFO : Test_AddCustomer : test_add_customer : 30 : Add Customer Test is Started
+2023-09-20 10:55:05,672 : INFO : Test_AddCustomer : test_add_customer : 37 : Providing Customer info.
+2023-09-20 10:55:09,989 : INFO : Test_AddCustomer : test_add_customer : 54 : Saving Customer info.
+2023-09-20 10:55:10,393 : INFO : Test_AddCustomer : test_add_customer : 59 : Customer Added Successfully.
+2023-09-20 10:55:12,527 : INFO : Test_AddCustomer : test_add_customer : 67 : Logout Successful
+2023-09-20 10:55:12,715 : INFO : Test_AddCustomer : test_add_customer : 69 : Login Test is Completed
