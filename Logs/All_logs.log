@@ -124,3 +124,33 @@
 2023-09-20 10:55:10,393 : INFO : Test_AddCustomer : test_add_customer : 59 : Customer Added Successfully.
 2023-09-20 10:55:12,527 : INFO : Test_AddCustomer : test_add_customer : 67 : Logout Successful
 2023-09-20 10:55:12,715 : INFO : Test_AddCustomer : test_add_customer : 69 : Login Test is Completed
+2023-10-02 21:45:08,948 : INFO : Test_HomePage : test_home_page : 11 : --------------- Home Page ---------------
+2023-10-02 21:45:09,006 : INFO : Test_HomePage : test_home_page : 12 : Home Page Test is Started
+2023-10-02 21:45:09,006 : INFO : Test_HomePage : test_home_page : 14 : Invoking Browser And Opening URL
+2023-10-02 21:45:09,219 : INFO : Test_HomePage : test_home_page : 17 : Title of Home Page :: Your store. Login
+2023-10-02 21:45:09,219 : INFO : Test_HomePage : test_home_page : 19 : Home Page Title is passed
+2023-10-02 21:45:09,513 : INFO : Test_HomePage : test_home_page : 27 : Home Page Test is Completed
+2023-10-02 21:52:23,027 : INFO : Test_HomePage : test_home_page : 11 : --------------- Home Page ---------------
+2023-10-02 21:52:23,107 : INFO : Test_HomePage : test_home_page : 12 : Home Page Test is Started
+2023-10-02 21:52:23,107 : INFO : Test_HomePage : test_home_page : 14 : Invoking Browser And Opening URL
+2023-10-02 21:52:23,167 : INFO : Test_HomePage : test_home_page : 17 : Title of Home Page :: Your store. Login
+2023-10-02 21:52:23,168 : INFO : Test_HomePage : test_home_page : 19 : Home Page Title is passed
+2023-10-02 21:52:23,662 : INFO : Test_HomePage : test_home_page : 27 : Home Page Test is Completed
+2023-10-03 15:10:00,463 : INFO : Test_HomePage : test_home_page : 11 : --------------- Home Page ---------------
+2023-10-03 15:10:00,509 : INFO : Test_HomePage : test_home_page : 12 : Home Page Test is Started
+2023-10-03 15:10:00,509 : INFO : Test_HomePage : test_home_page : 14 : Invoking Browser And Opening URL
+2023-10-03 15:10:00,523 : INFO : Test_HomePage : test_home_page : 17 : Title of Home Page :: Your store. Login
+2023-10-03 15:10:00,523 : INFO : Test_HomePage : test_home_page : 19 : Home Page Title is passed
+2023-10-03 15:10:01,089 : INFO : Test_HomePage : test_home_page : 27 : Home Page Test is Completed
+2023-10-03 15:10:24,371 : INFO : Test_HomePage : test_home_page : 11 : --------------- Home Page ---------------
+2023-10-03 15:10:24,372 : INFO : Test_HomePage : test_home_page : 12 : Home Page Test is Started
+2023-10-03 15:10:24,372 : INFO : Test_HomePage : test_home_page : 14 : Invoking Browser And Opening URL
+2023-10-03 15:10:24,384 : INFO : Test_HomePage : test_home_page : 17 : Title of Home Page :: Your store. Login
+2023-10-03 15:10:24,385 : INFO : Test_HomePage : test_home_page : 19 : Home Page Title is passed
+2023-10-03 15:10:24,746 : INFO : Test_HomePage : test_home_page : 27 : Home Page Test is Completed
+2023-10-03 15:14:28,697 : INFO : Test_HomePage : test_home_page : 11 : --------------- Home Page ---------------
+2023-10-03 15:14:28,719 : INFO : Test_HomePage : test_home_page : 12 : Home Page Test is Started
+2023-10-03 15:14:28,734 : INFO : Test_HomePage : test_home_page : 14 : Invoking Browser And Opening URL
+2023-10-03 15:14:28,750 : INFO : Test_HomePage : test_home_page : 17 : Title of Home Page :: Your store. Login
+2023-10-03 15:14:28,750 : INFO : Test_HomePage : test_home_page : 19 : Home Page Title is passed
+2023-10-03 15:14:28,810 : INFO : Test_HomePage : test_home_page : 27 : Home Page Test is Completed
